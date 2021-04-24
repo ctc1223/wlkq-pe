@@ -1,0 +1,32 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <artifactId>pe-manager-api</artifactId>
+  <name>pe-manager-api</name>
+  <description>后台管理系统,存放业务层接口和DAO层接口(jar)</description>
+  <parent>
+  	<groupId>com.wlkq.pe</groupId>
+  	<artifactId>pe-parent</artifactId>
+  	<version>0.0.1-SNAPSHOT</version>
+  	<relativePath>../pe-parent/pom.xml</relativePath>
+  </parent>
+  
+  
+  <dependencies>
+  	<dependency>
+  		<groupId>com.wlkq.pe</groupId>
+  		<artifactId>pe-bean</artifactId>
+  		<version>0.0.1-SNAPSHOT</version>
+  	</dependency>
+  	<dependency>
+			<groupId>org.mybatis</groupId>
+			<artifactId>mybatis</artifactId>
+	</dependency>
+	
+	<!-- 分页 -->
+		<dependency>
+			<groupId>com.github.pagehelper</groupId>
+			<artifactId>pagehelper</artifactId>
+		</dependency>
+  </dependencies>
+  	
+</project>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="redis.clients.jedis.Jedis"/>
+    <fullyQualifiedTypeName name="redis.clients.jedis.JedisPool"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
+    <fullyQualifiedTypeName name="com.wlkq.pec.util.RedisAPI"/>
+    <fullyQualifiedTypeName name="com.wlkq.pe.util.AppResponse"/>
+    <fullyQualifiedTypeName name="com.wlkq.pe.bean.PecUser"/>
+    <fullyQualifiedTypeName name="com.wlkq.pe.util.LoginException"/>
+    <fullyQualifiedTypeName name="com.wlkq.pe.service.PecUserService"/>
+    <fullyQualifiedTypeName name="com.wlkq.pe.util.MD5Util"/>
+    <fullyQualifiedTypeName name="javax.servlet.http.HttpSession"/>
+    <fullyQualifiedTypeName name="com.github.pagehelper.util.StringUtil"/>
+    <fullyQualifiedTypeName name="com.wlkq.pe.util.Const"/>
+    <fullyQualifiedTypeName name="io.swagger.annotations.Api"/>
+    <fullyQualifiedTypeName name="springfox.documentation.swagger2.annotations.EnableSwagger2"/>
+    <fullyQualifiedTypeName name="com.wlkq.pe.util.SmsTemplate"/>
+    <fullyQualifiedTypeName name="com.wlkq.pe.mapper.PecUserMapper"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.GetMapping"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RestController"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.ResponseBody"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Controller"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.CrossOrigin"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="org.mybatis.generator.codegen.ibatis2.model.ExampleGenerator"/>
+    <fullyQualifiedTypeName name="com.wlkq.pe.bean.PecUserExample"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestParam"/>
+    <fullyQualifiedTypeName name="com.github.pagehelper.PageHelper"/>
+    <fullyQualifiedTypeName name="com.github.pagehelper.PageInfo"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PostMapping"/>
+    <fullyQualifiedTypeName name="com.wlkq.pe.util.Result"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestBody"/>
+</qualifiedTypeNameHistroy>

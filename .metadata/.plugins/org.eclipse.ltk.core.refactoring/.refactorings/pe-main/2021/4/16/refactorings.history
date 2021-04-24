@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;pe-main/src/main/webapp/static/img/微信图片_20210412183506.png&apos; to &apos;index.png&apos;" description="Rename resource &apos;微信图片_20210412183506.png&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/webapp/static/img/微信图片_20210412183506.png" name="index.png" stamp="1618223789708" updateReferences="true"/>
+</session>

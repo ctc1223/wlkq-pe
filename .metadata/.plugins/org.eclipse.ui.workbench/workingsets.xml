@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1616411506446_2" label="pe" name="pe">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/pe-manager-api" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/pe-manager-impl" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/pe-bean" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/pe-main" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/pe-parent" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/pe-common" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1616411690477_4" label="pec" name="pec"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1616223784405_0" label="Window Working Set" name="Aggregate for window 1616223784404"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1616378344357_1" label="Window Working Set" name="Aggregate for window 1616378344357"/>
+<mruList name="pe"/>
+</workingSetManager>
